@@ -1,7 +1,7 @@
 # Seeed_SHT3X_SH110x_I2c
 Seeed Studio XIAO RP2040 , SHT3# Temp + Hum, Adafruit SH110G LCD , I2C Bus
 
-Example of a dual I2c address interprater.
+Example of a dual I2c address interpreter.
 
 4 Pin required on RP2040
   12 GND
