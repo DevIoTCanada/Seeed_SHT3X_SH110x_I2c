@@ -1,3 +1,6 @@
+/* Released into the public domain */
+//Adafruit Librairies @ https://learn.adafruit.com/adafruit-all-about-arduino-libraries-install-use/arduino-libraries
+// © DevIoTCanada RFT Enr. Non Commercial usage liscense granted.
 #include "Adafruit_SHT31.h"
 #include <Wire.h>
 #include <Adafruit_GFX.h> 
@@ -76,3 +79,4 @@ void loop() {
     display.print("Rel H");  
     display.display(); 
 }
+// 
